@@ -39,8 +39,8 @@ export const projects = [
   },
 
   {
-    id: "mongobite",
-    title: "MongoBite — Food Platform",
+    id: "Quickbite",
+    title: "Quickbite — Food Platform",
     description:
       "A food ordering platform with full CRUD for users and restaurant records, integrated payments, and real-time order status updates.",
     image: null,
@@ -51,7 +51,7 @@ export const projects = [
       "Real-time order status updates",
       "Responsive UI with Bootstrap & Tailwind CSS",
     ],
-    githubUrl: "https://github.com/sudhirmahur/mongobite",
+    githubUrl: "https://github.com/sudhirmahur/quickbite",
     liveUrl: "https://quickbite1-ashen.vercel.app/",
     category: "Full Stack",
   },
